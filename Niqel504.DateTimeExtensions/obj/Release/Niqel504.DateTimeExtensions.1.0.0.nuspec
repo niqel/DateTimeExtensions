@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Niqel504.DateTimeExtensions</id>
+    <version>1.0.0</version>
+    <authors>Niqel504.DateTimeExtensions</authors>
+    <description>Extension for DateTime object, add a GetRankTime method that returns a RankTime object with 3 properties Days, Months, Years. This method calculates the time difference between a start date and an end date</description>
+    <tags>Extension Datetime, Rank Time.</tags>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\bin\Release\net6.0\Niqel504.DateTimeExtensions.dll" target="lib\net6.0\Niqel504.DateTimeExtensions.dll" />
+  </files>
+</package>

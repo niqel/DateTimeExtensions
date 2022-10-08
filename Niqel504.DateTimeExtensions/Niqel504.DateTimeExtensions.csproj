@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Company>Gustavo Meléndez Villarreal</Company>
+    <Description>Extension for DateTime object, add a GetRankTime method that returns a RankTime object with 3 properties Days, Months, Years. This method calculates the time difference between a start date and an end date  </Description>
+    <PackageTags>Extension Datetime, Rank Time. </PackageTags>
+  </PropertyGroup>
+
+</Project>

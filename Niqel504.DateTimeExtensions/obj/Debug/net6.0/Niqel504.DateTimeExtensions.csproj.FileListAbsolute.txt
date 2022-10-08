@@ -1,0 +1,12 @@
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\bin\Debug\net6.0\Niqel504.DateTimeExtensions.deps.json
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\bin\Debug\net6.0\Niqel504.DateTimeExtensions.dll
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\bin\Debug\net6.0\Niqel504.DateTimeExtensions.pdb
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.AssemblyInfo.cs
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.dll
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\refint\Niqel504.DateTimeExtensions.dll
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\Niqel504.DateTimeExtensions.pdb
+C:\Users\niqel\source\repos\Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions\obj\Debug\net6.0\ref\Niqel504.DateTimeExtensions.dll

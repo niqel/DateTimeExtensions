@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niqel504.DateTimeExtensions", "Niqel504.DateTimeExtensions\Niqel504.DateTimeExtensions.csproj", "{ABFE92DF-46FC-4991-8098-4529E5F7C7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A5443909-B56C-487D-8302-6E748158B9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFE92DF-46FC-4991-8098-4529E5F7C7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFE92DF-46FC-4991-8098-4529E5F7C7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFE92DF-46FC-4991-8098-4529E5F7C7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFE92DF-46FC-4991-8098-4529E5F7C7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5443909-B56C-487D-8302-6E748158B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5443909-B56C-487D-8302-6E748158B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5443909-B56C-487D-8302-6E748158B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5443909-B56C-487D-8302-6E748158B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F184AEFF-9880-4332-8C69-B5A85793EAB8}
+	EndGlobalSection
+EndGlobal
